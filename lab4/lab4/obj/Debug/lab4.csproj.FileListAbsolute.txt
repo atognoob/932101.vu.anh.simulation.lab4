@@ -1,0 +1,10 @@
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab4\lab4\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab4\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab4\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab4\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab4\lab4\lab4\bin\Debug\lab4.exe.config
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab4\lab4\lab4\bin\Debug\lab4.exe
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab4\lab4\lab4\bin\Debug\lab4.pdb
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab4\lab4\lab4\obj\Debug\lab4.exe
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab4\lab4\lab4\obj\Debug\lab4.pdb
+Z:\Documents\семестр 6\имитационное моделирование\lab1\932101.vu.anh.simulation.lab4\lab4\lab4\obj\Debug\lab4.Form1.resources
