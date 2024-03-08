@@ -80,6 +80,7 @@ namespace lab4
             if (CheckGenerationDead())
             {
                 mainTimer.Stop();
+                MessageBox.Show("End");
             }
         }
 
@@ -141,9 +142,9 @@ namespace lab4
         int CountNeighboors(int i, int j)
         {
             var count = 0;
-            for (int k  = i-1; k<i+1; k++)
+            for (int k  = i - 1; k <= i+1; k++)
             {
-                for (int l = j-1; l<j+1; l++)
+                for (int l = j - 1; l <= j + 1; l++)
                 {
                     if (!IsInsideMap(k, l))
                         continue;
@@ -158,7 +159,7 @@ namespace lab4
 
         bool IsInsideMap(int i, int j)
         {
-            if (i < 0 || i >= mapSize || j < 0 || j >= mapSize) return false;
+            if (i < 0 || i >= mapSize || j < 0 || j >= mapSize) { return false; }
             return true;
         }
 
